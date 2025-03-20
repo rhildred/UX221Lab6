@@ -17,6 +17,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/i-love-spring/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -38,6 +43,11 @@
     <url>
         <loc>
             http://localhost:8000/author/rhildred/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/vinnielee28/
         </loc>
     </url>
 </urlset>
